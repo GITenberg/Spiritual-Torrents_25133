@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25226
     wikipedia: http://en.wikipedia.org/wiki/Jeanne_Marie_Bouvier_de_la_Motte_Guyon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25133#Spiritual-Torrents
 gutenberg_bookshelf: Christianity
 gutenberg_issued: '2008-04-22'
 gutenberg_type: Text
